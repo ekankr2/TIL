@@ -2,4 +2,4 @@
     Record of things I learned today.
 
 ## AWS
-* [Lambda](./AWS/Lambda.md)
+* [Lambda](AWS/lambda)
